@@ -1,0 +1,13 @@
+body{
+    justify-content: center;
+   align-items: center;
+   display: flex;
+   background-color: teal;}
+button{
+    color: black;
+    border-radius: 10px;
+    box-shadow: grey 10px 10px 5px;}
+
+
+    h1{
+   color: rgb(255, 255, 255); font-size: 120%; text-shadow: rgb(255, 255, 255) 0px 0px 5px, rgb(255, 255, 255) 0px 0px 10px, rgb(255, 255, 255) 0px 0px 15px, rgb(126, 255, 219) 0px 0px 20px, rgb(126, 255, 219) 0px 0px 30px, rgb(126, 255, 219) 0px 0px 40px, rgb(126, 255, 219) 0px 0px 55px, rgb(126, 255, 219) 0px 0px 75px;}
